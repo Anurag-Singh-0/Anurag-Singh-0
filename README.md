@@ -18,4 +18,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![Snake eating my contributions](https://raw.githubusercontent.com/Anurag-singh-0/snk/output/github-contribution-grid-snake.svg)
 
