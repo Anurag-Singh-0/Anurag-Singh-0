@@ -59,7 +59,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)
 
 ---
-![Snake eating my contributions](https://raw.githubusercontent.com/Anurag-singh-0/snk/output/github-contribution-grid-snake.svg)
+![Snake eating my contributions](https://raw.githubusercontent.com/Anurag-Singh-0/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
