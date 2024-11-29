@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+
+![Snake eating my contributions](https://raw.githubusercontent.com/anurag-singh-0/snk/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **Anurag-Singh-0/Anurag-Singh-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
