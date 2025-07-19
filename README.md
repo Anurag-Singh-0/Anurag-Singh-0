@@ -1,27 +1,28 @@
-# 🚀 Welcome to My GitHub Profile!
+# I'm glad you're here 😺
 
-🌟 Hi, I'm **Anurag Singh**, a BCA (Data Science & AI) student passionate about technology, coding, and creating impactful projects. I’m on a journey to master **Full-Stack Development** and make meaningful contributions to the developer community. 💻✨  
+## Short Summary
+Aspiring Full-Stack Developer skilled in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and SQL. Passionate about web development and problem-solving. Currently pursuing a Bachelor of Computer Applications in Data Science and Artificial Intelligence at Babu Banarasi Das University, Lucknow. Seeking opportunities to apply and expand my skills in a professional setting. 
 
 ---
 
 ## 💫 About Me
 - 🔭 **Pursuing**: Bachelor of Computer Applications in Data Science and Artificial Intelligence 
 - 🌱 **Currently Learning**: Full-Stack Development  
-- 💬 **Ask Me About**: React, MERN Stack, Front-End Development  
+- 💬 **Ask Me About**: React, MERN Stack, Front-End Development
+
+<div align="center">
+  
+  ### 🌐 Socials
+  
+  [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40" style="margin-right: 20px;">](mailto:singh.anurag2026@gmail.com)
+  [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width="40" height="40" style="margin-right: 20px;">](https://instagram.com/anurag.singh_04)
+  [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;">](https://www.linkedin.com/in/singhanurag2024/)
+  [<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="Twitter" width="40" height="40" style="margin-right: 20px;">](https://x.com/Anurag_singh_09)
+  
+</div>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Anurag-Singh-0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-### 🌐 Socials
-
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40" style="margin-right: 20px;">](mailto:singh.anurag2026@gmail.com)
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width="40" height="40" style="margin-right: 20px;">](https://instagram.com/anurag.singh_04)
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;">](https://www.linkedin.com/in/singhanurag2024/)
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="Twitter" width="40" height="40" style="margin-right: 20px;">](https://x.com/Anurag_singh_09)
-
----
+### SKILLS
 
 ### Frontend
 
