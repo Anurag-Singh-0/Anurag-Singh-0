@@ -74,6 +74,10 @@ Aspiring Full-Stack Developer skilled in HTML, CSS, JavaScript, React, Node.js, 
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Anurag-Singh-0/Anurag-Singh-0/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
   
   ###  Random Dev Quote
   
