@@ -63,8 +63,10 @@ Aspiring Full-Stack Developer skilled in HTML, CSS, JavaScript, React, Node.js, 
 <div align="center">
   
   ### GitHub Stats
+
+  ![Anurag-Singh-0's Stats](https://github-readme-stats.vercel.app/api?username=Anurag-Singh-0&theme=dark&show_icons=true&hide_border=true&count_private=true)
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ganesh-mk&theme=dark&hide_border=false)<br />
+  ![Anurag-Singh-0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Singh-0&theme=dark&show_icons=true&hide_border=true&layout=compact)
   
   ### LeetCode Stats
   
@@ -82,5 +84,13 @@ Aspiring Full-Stack Developer skilled in HTML, CSS, JavaScript, React, Node.js, 
   ###  Random Dev Quote
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMzMHhrbjRseTJuNHNxYnpzaWduNDE0Y3hzc3N5NTdzdnJ2c280NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anurag-Singh-0.Anurag-Singh-0&"  />
 </div>
 
