@@ -1,5 +1,5 @@
 # 👋 I'm Anurag Singh
-### Full-Stack Developer | MERN Stack Specialist | BCA in Data Science and AI
+MERN Stack Developer | BCA in Data Science and AI
 
 Professional and driven Full-Stack Developer with a strong foundation in modern web technologies. Currently in the final year of a Bachelor of Computer Applications (Data Science and AI) at Babu Banarasi Das University, Lucknow. I specialize in building scalable web applications using the MERN stack and am looking to leverage my technical skills in a professional software engineering role.
 
